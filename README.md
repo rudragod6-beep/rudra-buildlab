@@ -3,10 +3,12 @@
 A student developer team from Nepal focused on building useful projects in software, automation, and AI.
 
 Members:
-- Bikram Gole
-- Roshan Tamanag 
-- Roshan Ghimire
 - Aayush Singh
+- Bikram Gole
+- Roshan Ghimire
+- Roshan Tamanag 
+  
+
 
 Current project:
 - KinaAi
