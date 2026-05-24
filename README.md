@@ -6,6 +6,7 @@ Members:
 - Bikram Gole
 - Roshan Tamanag 
 - Roshan Ghimire
+- Aayush Singh
 
 Current project:
 - KinaAi
