@@ -8,4 +8,4 @@ Members:
 - Roshan Ghimire
 
 Current project:
-- TBD
+- KinaAi
